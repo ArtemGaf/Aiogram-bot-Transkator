@@ -1,4 +1,4 @@
-# Aiogram-bot-Transkator
+# Aiogram-bot-Translator
 Телеграм бот для перевода языков русский, англиский
 
 В файле confige.py введите токен полученный в @BotFather
